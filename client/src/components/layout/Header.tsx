@@ -15,7 +15,7 @@ const Header: React.FC = () => {
           </div>
           <div className="flex items-center">
             <a
-              href="https://github.com/your-username/dropfile-frontend"
+              href="https://github.com/kumar8317/dropfile"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-500 hover:text-gray-700 transition-colors"
